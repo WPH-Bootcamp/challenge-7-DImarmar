@@ -1,7 +1,5 @@
-import React from "react";
-
-const Button = () => {
-  return <>fix this button</>;
-};
-
-export default Button;
+export const Button = ({children}) => {
+    return <Button className= "bg-amber-50
+    test-white "><Button></Button>;
+    
+    };
